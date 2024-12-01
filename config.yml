@@ -1,0 +1,9 @@
+world: game_end
+diapason:
+  x: 3000
+  z: 3000
+coords:
+  endkorabl: 75
+  endpiramida: 65
+spawn:
+  text: 'Схематика была заспавнена на координатах: {x} {y} {z}'
