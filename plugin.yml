@@ -1,0 +1,8 @@
+name: FichaEndDanj
+main: com.fichaenddanj.FichaEndDanj
+version: 1.0
+commands:
+  danjend:
+    description: Main command for FichaEndDanj plugin.
+    usage: /danjend [additems|spawn]
+    permission: op
