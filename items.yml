@@ -1,0 +1,8 @@
+items:
+  items:   
+    - material: IRON_INGOT
+      chance: 50
+    - material: COAL
+      chance: 30
+    - material: DIAMOND
+      chance: 20
